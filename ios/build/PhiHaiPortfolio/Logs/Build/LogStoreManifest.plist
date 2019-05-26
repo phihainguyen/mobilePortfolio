@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>50AC663D-A72B-4C83-A248-F999B37A8BAE</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>50AC663D-A72B-4C83-A248-F999B37A8BAE.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PhiHaiPortfolio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PhiHaiPortfolio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PhiHaiPortfolio with scheme PhiHaiPortfolio and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580506670.16853201</real>
+			<key>timeStoppedRecording</key>
+			<real>580506694.734568</real>
+			<key>title</key>
+			<string>Building project PhiHaiPortfolio with scheme PhiHaiPortfolio and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>50AC663D-A72B-4C83-A248-F999B37A8BAE</string>
+		</dict>
+		<key>5B0A55B1-4B33-4DFB-A438-316A945A7662</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>5B0A55B1-4B33-4DFB-A438-316A945A7662.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>PhiHaiPortfolio project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>PhiHaiPortfolio</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building project PhiHaiPortfolio with scheme PhiHaiPortfolio and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>580508147.52620697</real>
+			<key>timeStoppedRecording</key>
+			<real>580508149.95193899</real>
+			<key>title</key>
+			<string>Building project PhiHaiPortfolio with scheme PhiHaiPortfolio and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>5B0A55B1-4B33-4DFB-A438-316A945A7662</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
